@@ -1,0 +1,82 @@
+
+
+[
+  {
+    "p1": "CARTU962325",
+    "p2": 1,
+    "p3": -23,
+    "p4": -26.3,
+    "p5": -24.1,
+    "p6": 29,
+    "p7": 75,
+    "p8": 0,
+    "p9": 0,
+    "p10": 0,
+    "p11": 0,
+    "p14": "ML3 PrimeLINE",
+    "p15": "2024-03-12T23:58:35Z",
+    "p17": -26.3,
+    "p19": 10.099938,
+    "p20": 10.099938,
+    "p21": 10.099938,
+    "p22": 10.099938,
+    "p100": 2554,
+    "p105": "2030W000002",
+    "p106": "5384",
+    "p116": -24,
+    "C100": "69NT40-561-500",
+    "C002": 782,
+    "C013": 48,
+    "C015": [],
+    "C016": [
+      26,
+      253,
+      254,
+      256,
+      270,
+      271,
+      26
+    ],
+    "C003": 6,
+    "C022": 4.2,
+    "C023": 474,
+    "C025": "Schedule",
+    "C030": 0,
+    "C031": 0,
+    "C038": 1,
+    "C039": 0,
+    "C040": 1,
+    "C041": 2,
+    "C052": "2020-11-17T18:36:30Z",
+    "C053": 0,
+    "long": -75.5088,
+    "lat": 10.3785,
+    "ReferenceID": "",
+    "Alarms": [
+      {
+        "alarm_name": "AL026",
+        "alarm_desc": "All Supply / Return Probes Failure"
+      },
+      {
+        "alarm_name": "AL253",
+        "alarm_desc": "Battery Pack Fault"
+      },
+      {
+        "alarm_name": "AL254",
+        "alarm_desc": "Primary Supply Temperature Sensor (STS) Fault"
+      },
+      {
+        "alarm_name": "AL256",
+        "alarm_desc": "Primary Return Temperature Sensor (RTS) Fault"
+      },
+      {
+        "alarm_name": "AL270",
+        "alarm_desc": "Supply Recorder Sensor (SRS) Fault"
+      },
+      {
+        "alarm_name": "AL271",
+        "alarm_desc": "Return Recorder Sensor (RRS) Fault"
+      }
+    ]
+  }
+]
